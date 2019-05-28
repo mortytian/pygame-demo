@@ -73,7 +73,8 @@ class Game:
                 if event.key == pg.K_DOWN:
                     self.player.move(dy=1)
 
-
+    def show_start_screen(self):
+        pass
 # 开始
 g = Game()
 g.show_start_screen()

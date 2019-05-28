@@ -5,4 +5,4 @@
 
 part 01 制作出来可移动的方块和墙
 
-![image-20190528133250377](/Users/typeme/Library/Application Support/typora-user-images/image-20190528133250377.png)
+![part 01 demo](pictute/part 01 demo.png)
