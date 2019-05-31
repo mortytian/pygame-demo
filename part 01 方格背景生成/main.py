@@ -17,7 +17,7 @@ class Game:
         pass
 
     def new(self):
-        # initialize all variables and do all the setup for a new game
+        # 初始化
         self.all_sprites = pg.sprite.Group()
         self.walls = pg.sprite.Group()
         # 初始坐标 10，10
