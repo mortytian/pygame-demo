@@ -107,3 +107,12 @@ part 09  新增
 
 ![part 09 demo](https://github.com/typeme/pygame-demo/blob/master/pictute/part%2009%20demo.png)
 
+
+
+## Demo 10
+
+part 10 新增 
+
+增加了player, mob血条
+
+![part 10 demo](https://github.com/typeme/pygame-demo/blob/master/pictute/part%2010%20demo.png)
